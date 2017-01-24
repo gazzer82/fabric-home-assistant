@@ -119,9 +119,9 @@ fi
 
 
 
-sudo /usr/bin/pip3 install pycrypto
-sudo /usr/bin/pip3 install cryptography
-sudo /usr/bin/pip3 install fabric3
+sudo /usr/bin/pip-3.2 install pycrypto
+sudo /usr/bin/pip-3.2 install cryptography
+sudo /usr/bin/pip-3.2 install fabric3
 
 git clone https://github.com/home-assistant/fabric-home-assistant.git
 
